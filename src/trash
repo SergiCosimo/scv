@@ -1,0 +1,57 @@
+        <div>
+
+          <div className="p-10"></div>
+          <section className="bg-gray-400">
+            <p text-white className="bg-red-800">Ciao come va? sssssssssssssssssssssssssssssdgdfgdfgfdsdfsssssssss</p>
+          </section>
+          <Rectangle />
+          <div className=" bg-[url('s2.png')] bg-contain bg-no-repeat h-[300px] w-[640px]
+        sm:w-[200px] md:w-[200px] lg:w-[200px] xl:w-[1720px] 2xl:w-[1720px] 
+        xl:bg-cover
+        
+        ">
+            Ciao
+
+          </div>
+
+        </div>
+
+
+        <div className="  overflow-x-auto overflow-y-hidden border border-gray-300 rounded-lg p-2 ">
+            <div className="flex space-x-4">
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1 </div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+              <div className="w-[100px] h-[100px] bg-blue-500 text-white  items-center justify-center">Item 1</div>
+
+            </div>
+          </div>
