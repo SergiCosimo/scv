@@ -9,7 +9,7 @@ const App = () => {
       <main className="h-screen justify-items-center">
         <Header></Header>
         <div className="p-7"></div>
-        <div className="bg-[url(wallpaper.jpg)] bg-fixed w-full h-[200px]">
+        <div className="bg-[url(/wallpaper.jpg)] bg-fixed w-full h-[200px]">
           <div className="p-10 xl:text-6xl font-mono flex flex-row justify-between">
             <p>
               Sergi Cosimo <br></br>
@@ -50,13 +50,13 @@ const App = () => {
             Competenze:
           </p>
           <div className="grid grid-cols-2 gap-4 p-5 font-mono xl:grid-cols-4 ">
-            <ul className="xl:text-xl text-sm list-disc pl-8  bg-[url('card.png')] bg-cover rounded-xl shadow-2xl border border-gray-500">
+            <ul className="xl:text-xl text-sm list-disc pl-8  bg-[url('/card.png')] bg-cover rounded-xl shadow-2xl border border-gray-500">
               <li>C</li>
               <li>C++</li>
               <li>Rust</li>
               <li>Java</li>
             </ul>
-            <ul className="xl:text-xl text-sm  list-disc pl-8  bg-[url('card.png')] bg-cover  rounded-xl shadow-2xl border border-gray-500">
+            <ul className="xl:text-xl text-sm  list-disc pl-8  bg-[url('/card.png')] bg-cover  rounded-xl shadow-2xl border border-gray-500">
               <li>HTML/CSS</li>
               <li>Javascript</li>
               <li>React</li>
@@ -65,14 +65,14 @@ const App = () => {
               <li>Express</li>
               <li>SQL / MySQL / MongoDB</li>
             </ul>
-            <ul className="xl:text-xl text-sm  list-disc pl-8  bg-[url('card.png')] bg-cover rounded-xl shadow-2xl border border-gray-500">
+            <ul className="xl:text-xl text-sm  list-disc pl-8  bg-[url('/card.png')] bg-cover rounded-xl shadow-2xl border border-gray-500">
               <li>Unity</li>
               <li>Blender</li>
               <li>Visual Basic</li>
               <li>Git</li>
               <li>SourceTree</li>
             </ul>
-            <ul className="xl:text-xl text-sm  list-disc pl-8  bg-[url('card.png')] bg-cover rounded-xl shadow-2xl border border-gray-500">
+            <ul className="xl:text-xl text-sm  list-disc pl-8  bg-[url('/card.png')] bg-cover rounded-xl shadow-2xl border border-gray-500">
               <p className="text-center pr-8"><b>Work in progress: </b></p>
               <li>python</li>
               <li>tkinter</li>
