@@ -2,7 +2,7 @@
   "name": "scv",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://SergiCosimo.github.io/scv",
+  "homepage": "https://SergiCosimo.github.io/scv/",
   "type": "module",
   "scripts": {
     "dev": "vite",
